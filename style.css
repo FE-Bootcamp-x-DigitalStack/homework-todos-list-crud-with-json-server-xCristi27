@@ -1,0 +1,10 @@
+#todos-list {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+
+    li {
+        display: inline-block;
+        cursor: pointer;
+    }
+}
