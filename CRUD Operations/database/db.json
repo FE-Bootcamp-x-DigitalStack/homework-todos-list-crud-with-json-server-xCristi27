@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": "92d6",
+      "title": "Watch lectures from CS50x",
+      "done": true
+    },
+    {
+      "id": "82d1",
+      "title": "Watch Intro to Fetch API",
+      "done": true
+    },
+    {
+      "id": "1c0e",
+      "title": "Submit RPS assignment",
+      "done": false
+    },
+    {
+      "id": "8ca5",
+      "title": "Internet Protocols ",
+      "done": false
+    },
+    {
+      "id": "b392",
+      "title": "Data Protection ",
+      "done": true
+    }
+  ]
+}
