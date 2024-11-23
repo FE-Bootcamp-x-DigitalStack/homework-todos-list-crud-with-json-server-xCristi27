@@ -7,6 +7,7 @@ Use this initial project as your starting point. Read through all the requiremen
 -   Run `npm install` to install all project dependencies
 -   Run `npm run server` to start-up a local server with JSON (json-server).
 -   Execute _Live Server_ on index.html file to start-up the client application
+-   Don't forget to change the directory in the terminal before you run the `npm install` command
 
 ## Homework requirements
 
